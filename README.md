@@ -138,5 +138,5 @@ This project is for educational purposes.
 
 ## ✍️ Author
 
-Shravani
-(Add your GitHub profile link here)
+Shravani Kulkarni
+
